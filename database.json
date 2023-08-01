@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "user": "bincy-bee",
+      "userid": "1501",
+      "email": "bincybee@gmail.com",
+      "id": 2
+    },
+    {
+      "user": "ug-patel",
+      "userid": "0204",
+      "email": "ugpatel@gmail.com",
+      "id": 3
+    },
+    {
+      "user": "moneebee",
+      "userid": "0712151",
+      "email": "moh@gmail.com",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "user": "moneebee",
+      "msg": "good one",
+      "email": "moh@gmail.com",
+      "id": 2
+    },
+    {
+      "user": "bincybee",
+      "msg": "kepp it up good work",
+      "email": "bincybee@gmail.com",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "profileName": "malegaichintu",
+    "password": "malegaun1515"
+  }
+}
